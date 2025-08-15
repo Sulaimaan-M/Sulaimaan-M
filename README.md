@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/689ebbeddb704a2633d0254f?variant=dark&roadmaps=java)](https://roadmap.sh)
+
 <!--
 **Sulaimaan-M/Sulaimaan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
